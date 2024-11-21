@@ -1,11 +1,4 @@
-> [!NOTE]
-This project is still in processing.
-
-
-
-
-
- <br><br><br>
+https://stacktextpro.vercel.app/
 
 
 # *Stack TextPro*
